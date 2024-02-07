@@ -1,0 +1,19 @@
+function Projects() {
+    return (
+        <div className="section"id="projects">
+        <h3 className="section-title">Work</h3>
+        <div className="section-content">
+          <div id="work-cont">
+            <a href="https://kahlilbausley.github.io/Password.generator/">Password-Generator<div className="placeholder"><img src="https://user-images.githubusercontent.com/42008951/268752434-5b7f196f-879c-4af9-b3cc-cb48cbeeb2e0.png" alt /></div></a>
+            <a href="https://kahlilbausley.github.io/Quiz/">Code-Quiz<div className="placeholder"><img src="https://user-images.githubusercontent.com/42008951/274713985-be83d192-5692-42ec-81a8-e0069d9400a3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY3MzUwMTksIm5iZiI6MTcwNjczNDcxOSwicGF0aCI6Ii80MjAwODk1MS8yNzQ3MTM5ODUtYmU4M2QxOTItNTY5Mi00MmVjLTgxYTgtZTAwNjlkOTQwMGEzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTMxVDIwNTgzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBlNzYxYTFjMGFkNDkzYjQ5ZGVkNjVhYWRlMjJhZjBlZGYyNTg1MmU1YjFjZDM3Mjg0MjMxY2M1Njc1M2FhMmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.y8pZvFCpfpuIuYCm9PIsh38NQ_HNcrds9yTqVpXPVHA" alt /></div></a>
+            <a href="https://kahlilbausley.github.io/DayPlanner/">Day-Planner<div className="placeholder"><img src="https://user-images.githubusercontent.com/42008951/274712614-5c68fb5d-85a6-422b-8d26-ae6ca07c39d6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY3MzUwOTIsIm5iZiI6MTcwNjczNDc5MiwicGF0aCI6Ii80MjAwODk1MS8yNzQ3MTI2MTQtNWM2OGZiNWQtODVhNi00MjJiLThkMjYtYWU2Y2EwN2MzOWQ2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTMxVDIwNTk1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRhNTg4ZDhjOTRkYmYyMjZmZTc4MmMzYjc0OTEwOTk2YTI3NjYxNmQ5YTcyNWIzZjhlYWM1ZjA5NDM3ODFlOTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gSvtBnKYaX8Sm9CC_fapoysS3-xzL4loBI4xBeUsWPs" alt /></div></a>
+            <a href="https://mighty-beyond-80918-73cfb4c39c3b.herokuapp.com/">Text-Editor<div className="placeholder"><img src="https://private-user-images.githubusercontent.com/42008951/299465484-338b3e04-f001-46c2-8bfb-b93fa9eeef7f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY3MzU1MzYsIm5iZiI6MTcwNjczNTIzNiwicGF0aCI6Ii80MjAwODk1MS8yOTk0NjU0ODQtMzM4YjNlMDQtZjAwMS00NmMyLThiZmItYjkzZmE5ZWVlZjdmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTMxVDIxMDcxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlZTYxZGRmNWU5MDEwMzVjMTg3NjA0YTE1NjE3OTJjZTlhNTRjZTMzYWE4MTVhM2UwMjFmYzZiNGE1YmI3OTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jP0rO8_nJtbKKrpyCZ0J_MvoyuKNKZxTunyjHCT9W4E" alt /></div></a>
+            <a href="https://games-blitz-b15f3705b087.herokuapp.com/">Blitz<div className="placeholder"><img src="https://github.com/sgiannette/Blitz/raw/main/assets/images/Blitzscreenshot.png" alt /></div></a>
+            <a href="https://irimeroi.github.io/recipes-api/">Wine-&-Dine<div className="placeholder"><img src="https://github.com/kahlilbausley/recipes-api/raw/main/assets/images/Screenshot%202023-10-10%20at%202.53.58%20PM.png" alt /></div></a>
+          </div>
+        </div>
+      </div>
+    )
+}
+
+export default Projects
