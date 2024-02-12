@@ -5,7 +5,7 @@
 A portfolio to show my projects. This project was built with react.
 
 ## Depoloyed-Link
-
+https://kahlilbausley.github.io/react-portfolio/
 
 ## Screenshot
 <img width="1380" alt="image" src="https://github.com/kahlilbausley/react-portfolio/assets/42008951/6696a4a7-58e1-4cf3-9ad9-1c55e9432d8a">
